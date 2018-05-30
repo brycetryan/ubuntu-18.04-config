@@ -1,0 +1,5 @@
+chmod +x tomorrow-dark-x90.sh
+./tomorrow-dark-x90.sh
+
+In terminal set Global->General and untick show menu bar by default
+Under profiles set tomorrow-dark-x90 set custom font to Deja Vu Sans Mono Book size 10
