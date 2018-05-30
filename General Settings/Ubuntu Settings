@@ -1,0 +1,2 @@
+As we are running in a vm we want to disable screen lock
+Settings->Privacy->Screen Lock->Automatic Screen Lock off
