@@ -1,0 +1,3 @@
+rm -r ~/Pictures/Wallpaper
+cd ~/Pictures
+ln -s ../Git/ubuntu-18.04-config/Wallpaper/* .
