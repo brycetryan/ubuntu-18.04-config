@@ -1,1 +1,1 @@
-# ubuntu-config
+# ubuntu-18.04-config

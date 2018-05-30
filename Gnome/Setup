@@ -1,0 +1,18 @@
+For Arc theme
+sudo apt-get install arc-theme
+sudo apt-get install chrome-gnome-shell
+
+Open chrome and browse to https://extensions.gnome.org
+Enable:
+- Dash to Panel
+- User themes
+
+Open Tweak Tool (Gnome Tweak Tool)
+Set:
+Appearance->Themes->Application to Arc-Darker
+Appearance->Themes->Shell to Arc-Dark
+Desktop->Icons on Desktop->Show Icons off
+Fonts->Window Title to Ubuntu Regular size 10
+Fonts->Interface to Ubuntu Regular size 10
+Extensions->Dash to Panel->Position and Style->Running indicator position to bottom
+Extensions->Dash to Panel->Position and Style->Running indicator style (Focused app) to dots
