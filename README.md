@@ -4,3 +4,4 @@ Probable order of operations
 2. Apply terminal themes
 3. Follow Gnome setup
 4. Install applications
+5. Apply wallpaper using install doc
