@@ -1,0 +1,2 @@
+For ifconfig etc
+sudo apt-get install net-tools
