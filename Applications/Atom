@@ -1,3 +1,18 @@
 Download atom deb from atom.io
 Install like normal
-Settings -> Core -> Turn telemetry off
+
+config.cson
+"*":
+  core:
+    disablePackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+  editor:
+    showIndentGuide: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "654b27b4-3efc-443f-b0fb-297eb900841b"
+  welcome:
+    showOnStartup: false
