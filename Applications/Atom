@@ -1,5 +1,8 @@
 Download atom deb from atom.io
 Install like normal
+Packages
+ - highlight-selected
+ - split-diff
 
 config.cson
 "*":
