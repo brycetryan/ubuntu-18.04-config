@@ -3,6 +3,11 @@ Install like normal
 Packages
  - highlight-selected
  - split-diff
+ - atom-ide-ui
+ - ide-php
+ - dockblockr
+ - remote-sync
+ - sort-lines
 
 config.cson
 "*":
