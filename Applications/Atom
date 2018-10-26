@@ -1,5 +1,13 @@
 Download atom deb from atom.io
 Install like normal
+Packages
+ - highlight-selected
+ - split-diff (only needed for Cisco configs)
+ - atom-ide-ui
+ - ide-php
+ - dockblockr
+ - remote-sync
+ - sort-lines
 
 config.cson
 "*":
