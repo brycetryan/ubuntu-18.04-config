@@ -1,0 +1,19 @@
+Follow the instructions in:
+https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc
+
+Or:
+Download: https://go.microsoft.com/fwlink/?LinkID=760868
+Increase inotify because some of the repos I have have a huge number of files:
+fs.inotify.max_user_watches=524288
+sudo sysctl -p
+
+In extensions install:
+Code Runner
+GitLens
+One Dark Pro
+PHP IntelliSense
+phpfmt
+
+In settings:
+Change Editor: Render White Space to all
+Workbench: Color Theme to One Dark Pro
